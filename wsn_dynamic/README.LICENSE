@@ -1,0 +1,11 @@
+Files: *
+Copyright: © 2012 Gianfranco Costamagna, Daniele Cloralio
+License: LGPL-3+
+
+
+Files: lib/*
+Copyright: © 2012 Alvaro Prieto, Gianfranco Costamagna, Daniele Cloralio
+License: LGPL-3+ (upstream licence not specified, taken from [1])
+
+[1] https://github.com/alvarop/msp430-cc2500/
+

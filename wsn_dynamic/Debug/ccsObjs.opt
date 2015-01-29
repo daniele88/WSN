@@ -1,0 +1,1 @@
+"./lib/utils.obj" "./lib/spi.obj" "./lib/queue.obj" "./lib/cc2500.obj" "./main.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
