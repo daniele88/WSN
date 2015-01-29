@@ -5,4 +5,4 @@ We developed an energy aware wireless sensor network. The PCB of the network nod
 The firmware of the microcontroller was developed with CCStudio, an IDE provided by TI.
 The project could be built and tested with a MSP430 LaunchPad kit, provided by TI.
 The library to manage communication between MSP and CC2500 via SPI are from alvarop (https://github.com/alvarop/msp430-cc2500)
-See master_thesis.pdf for further details on the PCB of the nodes, on the architecture of the network, and the communication protocol (written and designed from scratch) 
+See master_thesis.pdf (in Italian language) for further details on the PCB of the nodes, on the architecture of the network, and the communication protocol (written and designed from scratch) 
